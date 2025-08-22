@@ -35,7 +35,7 @@ Here’s a snapshot of the dashboard:
 ![Dashboard Preview](./images/dashboard.png)
 
 
- ##🛠️ Tools Used
+ **🛠️ Tools Used**
 - **Power BI Desktop** – data modeling & visualization  
 - **Power Query (M)** – data cleaning & transformation  
 - **DAX** – advanced calculations & measures  
