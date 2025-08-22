@@ -30,10 +30,10 @@ The dashboard supports better decision-making by presenting key metrics and tren
 
 **📷 Dashboard Preview**
 
- Page 1 - Overview
+ Page 1 - Marketing
 ![Dashboard Page 1](./images/p1.png)
 
- Page 2 - Insights
+ Page 2 - Customers
 ![Dashboard Page 2](./images/p2.png)
 
 
