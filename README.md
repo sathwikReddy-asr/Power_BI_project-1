@@ -1,4 +1,4 @@
-**📊 Power BI Interactive Dashboard**
+**📊 Power BI Dashboard**
 
 This repository contains the project files for creating an **interactive dashboard using Power BI**.  
 The goal of this project is to design a user-friendly and insightful dashboard that delivers valuable analytics through **data modeling, DAX calculations, and dynamic visualizations**.  
