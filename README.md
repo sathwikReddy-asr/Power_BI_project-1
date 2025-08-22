@@ -28,11 +28,13 @@ The dashboard supports better decision-making by presenting key metrics and tren
 - Highlight key metrics and KPIs for quick decision-making.  
 - Maintain a professional and consistent theme across pages.  
 
+**📷 Dashboard Preview**
 
- **📷 Dashboard Preview**
-Here’s a snapshot of the dashboard:
+ Page 1 - Overview
+![Dashboard Page 1](./images/p1.png)
 
-![Dashboard Preview](./images/dashboard.png)
+ Page 2 - Insights
+![Dashboard Page 2](./images/p2.png)
 
 
  **🛠️ Tools Used**
