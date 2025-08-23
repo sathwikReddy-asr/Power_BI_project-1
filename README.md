@@ -28,18 +28,12 @@ The dashboard supports better decision-making by presenting key metrics and tren
 - Highlight key metrics and KPIs for quick decision-making.  
 - Maintain a professional and consistent theme across pages.  
 
-**📷 Dashboard Preview**
+**📷 Dashboard Pages**
 
  Page 1 - Marketing
- page 1 - Overview
-![Dashboard Page 1](./images/p1.png)
-
- page 2 -Insights
  Page 2 - Customers
-![Dashboard Page 2](./images/p2.png)
 
-
- **🛠️ Tools Used**
+**🛠️ Tools Used**
 - **Power BI Desktop** – data modeling & visualization  
 - **Power Query (M)** – data cleaning & transformation  
 - **DAX** – advanced calculations & measures  
