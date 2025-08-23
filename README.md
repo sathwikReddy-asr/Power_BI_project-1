@@ -31,6 +31,7 @@ The dashboard supports better decision-making by presenting key metrics and tren
 **📷 Dashboard Pages**
 
  Page 1 - Marketing
+ 
  Page 2 - Customers
 
 **🛠️ Tools Used**
